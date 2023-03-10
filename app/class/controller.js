@@ -1,4 +1,5 @@
 import ClassModel from "./index.js";
+// import ProfessorModel from "../professor/index.js";
 
 const controller = {
   index() {
